@@ -1,4 +1,4 @@
-import org.openqa.selenium.chrome.ChromeDriver;
+ import org.openqa.selenium.chrome.ChromeDriver;
 public class verify_about {
 
 	public static String chromeDriverPath = "/usr/local/bin/chromedriver";
